@@ -1,0 +1,4 @@
+class Solution:
+    def numberOfSteps (self, num: int) -> int:
+        bitstring = bin(num)[2:] # [2:] will remove the '0b' that is prepended to each bitstring by bin()
+        return len(bitstring) - 1 + bitstring.count('1')
