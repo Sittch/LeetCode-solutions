@@ -1,8 +1,8 @@
 # LeetCode Solutions
-This repository contains my solutions to various LeetCode problems, primarily implemented in Python.
+This repository contains my solutions to various [LeetCode problems](https://leetcode.com/problemset/all/), primarily implemented in Python.
 
 ## Introduction
-LeetCode is a platform where you can practice your coding skills by solving coding interview questions. The problems on LeetCode are categorized into various difficulty levels and cover a wide range of topics, including algorithms, data structures, and more.
+[LeetCode](https://leetcode.com) is a platform where you can practice your coding skills by solving coding interview questions. The problems on LeetCode are categorized into various difficulty levels and cover a wide range of topics, including algorithms, data structures, and more.
 
 This repository serves as a collection of my solutions to LeetCode problems that I have solved using Python.
 
