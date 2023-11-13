@@ -4,4 +4,4 @@ SELECT  p.product_name,
         s.price
 FROM    Product AS p
 INNER   JOIN Sales AS s
-        WHERE   p.product_id = s.product_id
+        WHERE   p.product_id = s.product_id;
