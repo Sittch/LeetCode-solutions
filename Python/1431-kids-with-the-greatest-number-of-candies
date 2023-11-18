@@ -1,0 +1,4 @@
+class Solution:
+    def kidsWithCandies(self, c: List[int], eC: int) -> List[bool]:
+        maxC = max(c)
+        return [x+eC >= maxC for x in c]
